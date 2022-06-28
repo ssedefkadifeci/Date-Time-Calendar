@@ -1,0 +1,29 @@
+C:\Users\HKU\Documents\Visual Studio 2017\Websites\DateFunct\DateFunct\bin\Debug\DateFunct.exe.config
+C:\Users\HKU\Documents\Visual Studio 2017\Websites\DateFunct\DateFunct\bin\Debug\DateFunct.exe
+C:\Users\HKU\Documents\Visual Studio 2017\Websites\DateFunct\DateFunct\bin\Debug\DateFunct.pdb
+C:\Users\HKU\Documents\Visual Studio 2017\Websites\DateFunct\DateFunct\obj\Debug\DateFunct.Form1.resources
+C:\Users\HKU\Documents\Visual Studio 2017\Websites\DateFunct\DateFunct\obj\Debug\DateFunct.Properties.Resources.resources
+C:\Users\HKU\Documents\Visual Studio 2017\Websites\DateFunct\DateFunct\obj\Debug\DateFunct.csproj.GenerateResource.Cache
+C:\Users\HKU\Documents\Visual Studio 2017\Websites\DateFunct\DateFunct\obj\Debug\DateFunct.exe
+C:\Users\HKU\Documents\Visual Studio 2017\Websites\DateFunct\DateFunct\obj\Debug\DateFunct.pdb
+C:\Users\HKU\Documents\Visual Studio 2017\Websites\DateFunct\DateFunct\obj\Debug\DateFunct.csprojResolveAssemblyReference.cache
+C:\Users\SEDEF\Desktop\DateFunct\DateFunct\bin\Debug\DateFunct.exe.config
+C:\Users\SEDEF\Desktop\DateFunct\DateFunct\bin\Debug\DateFunct.exe
+C:\Users\SEDEF\Desktop\DateFunct\DateFunct\bin\Debug\DateFunct.pdb
+C:\Users\SEDEF\Desktop\DateFunct\DateFunct\obj\Debug\DateFunct.csprojAssemblyReference.cache
+C:\Users\SEDEF\Desktop\DateFunct\DateFunct\obj\Debug\DateFunct.Form1.resources
+C:\Users\SEDEF\Desktop\DateFunct\DateFunct\obj\Debug\DateFunct.Properties.Resources.resources
+C:\Users\SEDEF\Desktop\DateFunct\DateFunct\obj\Debug\DateFunct.csproj.GenerateResource.cache
+C:\Users\SEDEF\Desktop\DateFunct\DateFunct\obj\Debug\DateFunct.csproj.CoreCompileInputs.cache
+C:\Users\SEDEF\Desktop\DateFunct\DateFunct\obj\Debug\DateFunct.exe
+C:\Users\SEDEF\Desktop\DateFunct\DateFunct\obj\Debug\DateFunct.pdb
+D:\ObjectOriented\DateFunct\DateFunct\bin\Debug\DateFunct.exe.config
+D:\ObjectOriented\DateFunct\DateFunct\bin\Debug\DateFunct.exe
+D:\ObjectOriented\DateFunct\DateFunct\bin\Debug\DateFunct.pdb
+D:\ObjectOriented\DateFunct\DateFunct\obj\Debug\DateFunct.csproj.AssemblyReference.cache
+D:\ObjectOriented\DateFunct\DateFunct\obj\Debug\DateFunct.Form1.resources
+D:\ObjectOriented\DateFunct\DateFunct\obj\Debug\DateFunct.Properties.Resources.resources
+D:\ObjectOriented\DateFunct\DateFunct\obj\Debug\DateFunct.csproj.GenerateResource.cache
+D:\ObjectOriented\DateFunct\DateFunct\obj\Debug\DateFunct.csproj.CoreCompileInputs.cache
+D:\ObjectOriented\DateFunct\DateFunct\obj\Debug\DateFunct.exe
+D:\ObjectOriented\DateFunct\DateFunct\obj\Debug\DateFunct.pdb
